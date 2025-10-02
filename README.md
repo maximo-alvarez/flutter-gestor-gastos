@@ -1,3 +1,3 @@
-# tareas
+# Gestor de Gastos
 
-A new Flutter project.
+Aplicación Flutter para gestionar gastos personales con categorías y almacenamiento local usando SQLite.
